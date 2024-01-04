@@ -12,6 +12,7 @@
 		1AA7D56B2B439C7100DB4D31 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AA7D56A2B439C7100DB4D31 /* Item.swift */; };
 		1AA7D56D2B439C7200DB4D31 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1AA7D56C2B439C7200DB4D31 /* Assets.xcassets */; };
 		1AA7D5712B439C7200DB4D31 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1AA7D5702B439C7200DB4D31 /* Preview Assets.xcassets */; };
+		1AA7D57C2B43A51D00DB4D31 /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AA7D57B2B43A51D00DB4D31 /* SheetsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1AA7D56C2B439C7200DB4D31 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1AA7D56E2B439C7200DB4D31 /* ios_bootcamp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = ios_bootcamp.entitlements; sourceTree = "<group>"; };
 		1AA7D5702B439C7200DB4D31 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1AA7D57B2B43A51D00DB4D31 /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 		1AA7D5782B439CCB00DB4D31 /* ui */ = {
 			isa = PBXGroup;
 			children = (
+				1AA7D57B2B43A51D00DB4D31 /* SheetsBootcamp.swift */,
 			);
 			path = ui;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1AA7D57C2B43A51D00DB4D31 /* SheetsBootcamp.swift in Sources */,
 				1AA7D5692B439C7100DB4D31 /* ContentView.swift in Sources */,
 				1AA7D56B2B439C7100DB4D31 /* Item.swift in Sources */,
 				1AA7D5672B439C7100DB4D31 /* ios_bootcampApp.swift in Sources */,
